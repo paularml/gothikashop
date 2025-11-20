@@ -285,7 +285,7 @@ export default function GothicShop() {
             >
               <Sparkles className="w-6 h-6 text-[#8E1B2C] group-hover:rotate-12 transition-transform" />
               <h1 className="text-2xl md:text-3xl font-bold tracking-tighter text-white">
-                GOTHIKA<span className="text-[#8E1B2C]">STYLE</span>
+                GOTHIKA<span className="text-[#8E1B2C]">SHOP</span>
               </h1>
             </button>
 
