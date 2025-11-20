@@ -150,7 +150,7 @@ export default function GothicShop() {
        <section 
         className="relative py-20 md:py-32 px-4 w-full overflow-hidden flex items-center justify-center"
         style={{ 
-          background: `linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.9)), url('../public/img/image.png')`,
+          background: `linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.9)), url('public/img/image.png')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center'
         }}

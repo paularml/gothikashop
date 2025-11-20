@@ -44,7 +44,7 @@ export const categories = {
 export const featuredProducts = [
   {
     id: 1,
-    image: '../public/img/vestido e bota tratorada.png',
+    image: 'public/img/vestido e bota tratorada.png',
     title: 'Look Gothic Completo',
     description: 'Vestido + Choker + Meia-calça',
     links: [
